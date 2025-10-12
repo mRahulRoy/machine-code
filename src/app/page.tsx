@@ -9,6 +9,8 @@ const page = () => {
                     <h4>Rahul</h4>
                     <div className='flex gap-3'>
                         <Link href={"/traffic-lights"} className='bg-amber-300 text-black rounded-3xl px-3'>Traffic Lights</Link>
+                        <Link href={"/digital-clock"} className='bg-amber-300 text-black rounded-3xl px-3'>Digital Clock</Link>
+
                     </div>
                 </div>
             </div>
