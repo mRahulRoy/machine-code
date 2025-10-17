@@ -10,6 +10,8 @@ const page = () => {
                     <div className='flex gap-3'>
                         <Link href={"/traffic-lights"} className='bg-amber-300 text-black rounded-3xl px-3'>Traffic Lights</Link>
                         <Link href={"/digital-clock"} className='bg-amber-300 text-black rounded-3xl px-3'>Digital Clock</Link>
+                        <Link href={"/explorer"} className='bg-amber-300 text-black rounded-3xl px-3'>explorer</Link>
+                        <Link href={"/floating-todo"} className='bg-amber-300 text-black rounded-3xl px-3'>Todos</Link>
 
                     </div>
                 </div>
